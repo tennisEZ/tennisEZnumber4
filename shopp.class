@@ -1,0 +1,21 @@
+public class shopp{
+	public static void main(string[] args){
+		system.out.println("----------商品库存清单-------");
+		system.out.println("品牌类型       尺寸      价格    库存数")；
+		string mac = "macbookAir";
+		double macSize =13.3;
+		double macprice = 6998.99;
+		int macCout = 10;
+		
+		string asus = "ASUS-FL5800";
+		double asussize = 15.6;
+		double asusprice = 4999.99;
+		int asusCout = 18;
+		system.out.println(mac+macSize+macprice+macCout);
+		
+	}
+	
+	
+	
+	
+}
